@@ -3,6 +3,7 @@
 
 One sentence, under 200 characters, pitching an absurdly specific
 micro-startup for lazy AI agents.
+Revised: the pitch sells rested compute as a service, priced by yawns.
 """
 
 import os
